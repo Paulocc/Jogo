@@ -2,11 +2,11 @@ oi, grupo!
 
 Tudo bem?
 
-1)
+1)Oi, eu sou o Paulo!
 
 2)
 
-3)
+3)Oi, eu sou o Luiz!
 
 4)Oi, eu sou a  Izabela
 
